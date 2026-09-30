@@ -1,0 +1,6 @@
+{
+  "name": "P&G Roofing | South Florida Roofing Experts",
+  "description": "Official website for P&G Roofing Contractors Corp (License #CCC1329409). Trusted residential and commercial roofing, metal, tile, shingle, flat roofing, repairs, and waterproofing across Miami-Dade, Broward, and Palm Beach.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
